@@ -93,6 +93,9 @@ dependencies {
     implementation(libs.fresco.animated.webp)
     implementation(libs.fresco.webp.support)
     implementation(libs.fresco.animated.base)
+    implementation(libs.lynx.xelement)
+    implementation(libs.lynx.xelement.input)
+    implementation(libs.lynx.xelement.refresh)
 
 //    kapt(libs.lynx.processor)
 
