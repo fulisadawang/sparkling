@@ -9,8 +9,8 @@ appcompat = "1.6.1"
 activity = "1.8.0"
 
 fragmentKtx = "1.5.6"
-lynxSdk="3.7.0"
-primjs="3.7.0"
+lynxSdk="3.8.0"
+primjs="3.8.0"
 coroutines="1.5.6"
 
 fresco = "2.3.0"
@@ -41,6 +41,7 @@ lynx-service-devtool = { group = "org.lynxsdk.lynx", name = "lynx-service-devtoo
 lynx-processor = { group = "org.lynxsdk.lynx", name = "lynx-processor", version.ref = "lynxSdk" }
 lynx-xelement = { group = "org.lynxsdk.lynx", name = "xelement", version.ref = "lynxSdk" }
 lynx-xelement-input = { group = "org.lynxsdk.lynx", name = "xelement-input", version.ref = "lynxSdk" }
+lynx-xelement-refresh = { group = "org.lynxsdk.lynx", name = "xelement-refresh", version.ref = "lynxSdk" }
 okhttp = {group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttp"}
 retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
 retrofit-converter-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit" }
